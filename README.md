@@ -1,7 +1,5 @@
 # **ChatGPT AI Cybersecurity 16-Week Curriculum**
 
----
-
 ## **Phase 1: Foundations (Weeks 1–4)**
 
 *Goal: Build your base in cybersecurity + AI/ML fundamentals.*
