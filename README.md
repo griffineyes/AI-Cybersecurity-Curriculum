@@ -4,9 +4,9 @@
   
 *Goal: Build your base in cybersecurity + AI/ML fundamentals.*  
   
-### **Week 1 – Cybersecurity Essentials**  
+### **[[Week 1 – Cybersecurity Essentials]]**  
   
-* Day 1: Model of hierarchical complexity  
+* Day 1: Model of hierarchical complexity
 * Day 2: CIA Triad (Confidentiality, Integrity, Availability), Authentication, Authorization, Accounting (AAA)  
 * Day 3: Network security basics (firewalls, IDS, IPS)  
 * Day 4: Cryptography 101 (hashing, symmetric vs. asymmetric)  
