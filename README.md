@@ -1,12 +1,12 @@
 # **AI Cybersecurity 16-Week Curriculum**  
   
-## **Phase 1: Foundations (Weeks 1–4)**  
+## **I Phase 1: Foundations (Weeks 1–4)**  
   
 *Goal: Build your base in cybersecurity + AI/ML fundamentals.*  
   
-### **[[Week 1 – Cybersecurity Essentials]]**  
+### Week 1 – Cybersecurity Essentials  
   
-* Day 1: Model of hierarchical complexity
+* Day 1: Model of hierarchical complexity  
 * Day 2: CIA Triad (Confidentiality, Integrity, Availability), Authentication, Authorization, Accounting (AAA)  
 * Day 3: Network security basics (firewalls, IDS, IPS)  
 * Day 4: Cryptography 101 (hashing, symmetric vs. asymmetric)  
@@ -39,6 +39,7 @@
 * Day 4: ML pipeline in cybersecurity use cases  
 * Day 5: Lab → Train a simple spam classifier using Naive Bayes  
 * Weekend: Reflection journal  
+  
 ⸻  
 ## **Phase 2: Blue Team AI for Cyber Defense (Weeks 5–8)**  
   
@@ -70,56 +71,56 @@
   
 ### **Week 8 – Blue Team AI Capstone**  
   
-* Build a prototype ML-powered IDS  
-* Document pipeline: data preprocessing → model training → evaluation → alert generation  
-* Deliverable: Report + working demo  
+* Google Cybersecurity Certificate  
+	[https://grow.google/certificates/cybersecurity/](https://grow.google/certificates/cybersecurity/)  
+  
 ⸻  
 ## **Phase 3: Red Team Adversarial AI & Threats (Weeks 9-12)**  
   
 *Goal: Learn how attackers exploit AI systems.*  
   
-**"Hack the Box AI Red Teamer Job Role Path"**[https://academy.hackthebox.com/path/preview/ai-red-teamer](https://academy.hackthebox.com/path/preview/ai-red-teamer)  
+**"Hack the Box AI Red Teamer Job Role Path" **[https://academy.hackthebox.com/path/preview/ai-red-teamer](https://academy.hackthebox.com/path/preview/ai-red-teamer)  
   
   
-### **Fundamentals of AI ✅**  
+### **[Fundamentals of AI ](https://academy.hackthebox.com/course/preview/fundamentals-of-ai)✅**  
   
 * Medium  
 * Path Sections 24 Sections  
 * Reward: +10  
 * This module provides a comprehensive guide to the theoretical foundations of Artificial Intelligence (AI). It covers various learning paradigms, including supervised, unsupervised, and reinforcement learning, providing a solid understanding of key algorithms and concepts.  
   
-### **Applications of AI in InfoSec ✅**  
+### **[Applications of AI in InfoSec](https://academy.hackthebox.com/course/preview/applications-of-ai-in-infosec) ✅**  
   
 * Medium  
 * Path Sections 25 Sections  
 * Reward: +10  
 * This module is a practical introduction to building AI models that can be applied to various infosec domains. It covers setting up a controlled AI environment using Miniconda for package management and JupyterLab for interactive experimentation. Students will learn to handle datasets, preprocess and transform data, and implement structured workflows for tasks such as spam classification, network anomaly detection, and malware classification. Throughout the module, learners will explore essential Python libraries like Scikit-learn and PyTorch, understand effective approaches to dataset processing, and become familiar with common evaluation metrics, enabling them to navigate the entire lifecycle of AI model development and experimentation.  
   
-### **Introduction to Red Teaming AI**  
+### **[Introduction to Red Teaming AI](https://academy.hackthebox.com/course/preview/introduction-to-red-teaming-ai) ✅**  
 * Medium  
 * Path Sections 11 Sections  
 * Reward: +10  
 * This module provides a comprehensive introduction to the world of red teaming Artificial Intelligence (AI) and systems utilizing Machine Learning (ML) deployments. It covers an overview of common security vulnerabilities in these systems and the types of attacks that can be launched against their components.  
   
-### **Prompt Injection Attacks**  
+### **[Prompt Injection Attacks](https://academy.hackthebox.com/course/preview/prompt-injection-attacks)**  
 * Medium  
 * Path Sections 11 Sections  
 * Reward: +20  
 * This module comprehensively introduces one of the most prominent attacks on large language models (LLMs): Prompt Injection. It introduces prompt injection basics and covers detailed attack vectors based on real-world vulnerability reports. Furthermore, the module touches on academic research in the fields of novel prompt injection techniques and jailbreaks.  
   
-### **LLM Output Attacks**  
+### **[LLM Output Attacks](https://academy.hackthebox.com/course/preview/llm-output-attacks)**  
 * Medium  
 * Path Sections 14 Sections  
 * Reward: +20  
 * In this module, we will explore different LLM output vulnerabilities resulting from improper handling of LLM outputs and insecure LLM applications. We will also touch on LLM abuse attacks, such as hate speech campaigns and misinformation generation, with a particular focus on the detection and mitigation of these attacks.  
   
-### **AI Data Attacks**  
+### **[AI Data Attacks](https://academy.hackthebox.com/course/preview/ai-data-attacks)**  
 * Hard  
 * Path Sections 25 Sections  
 * Reward: +20  
 * This module explores the intersection of Data and Artificial Intelligence, exposing how vulnerabilities within AI data pipelines can be exploited, ultimately aiming to degrade performance, achieve specific misclassifications, or execute arbitrary code.  
   
-### **Attacking AI - Application and System**  
+### **[Attacking AI - Application and System](https://academy.hackthebox.com/course/preview/attacking-ai---application-and-system)**  
 * Medium  
 * Path Sections 14 Sections  
 * Reward: +20 NEW  
@@ -171,3 +172,5 @@
 **By the end of Week 16:**   
 You’ll have gone through **defensive AI, offensive AI, adversarial ML, and governance**, with 3 mini-capstones + 1 final project.  
 ⸻  
+  
+  
