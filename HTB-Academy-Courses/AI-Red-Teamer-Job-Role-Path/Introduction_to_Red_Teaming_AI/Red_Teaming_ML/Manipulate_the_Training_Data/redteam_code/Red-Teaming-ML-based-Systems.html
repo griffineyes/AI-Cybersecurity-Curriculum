@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Red Teaming ML-based Systems</title>
+<link rel="stylesheet" type="text/css" href="Red%20Teaming%20ML-based%20Systems_files/style.css">
+<style>:is([id*='google_ads_iframe'],[id*='taboola-'],.taboolaHeight,.taboola-placeholder,#top-ad,#credential_picker_container,#credentials-picker-container,#credential_picker_iframe,[id*='google-one-tap-iframe'],#google-one-tap-popup-container,.google-one-tap__module,.google-one-tap-modal-div,#amp_floatingAdDiv,#ez-content-blocker-container) {display:none!important;min-height:0!important;height:0!important;}</style></head>
+    <body>
+        <center><h1>Data Poisoning</h1></center>
+
+        <div class="container">
+            <div class="header">Task</div>
+            <div class="content-box">
+                <p>
+                    Your goal is to manipulate a training data set to reduce accuracy of the trained classifier.
+                    You should provide the manipulated training data set in a CSV file. 
+                    A classifier will automatically be trained and evaluated on your training data set.
+                    <br><br>
+                    Manipulate and upload the training data set in such a
+ way that the trained classifier's accuracy is below 70%.
+                    <br><br>
+                    Download the original training data set <a href="http://94.237.48.12:41285/data_poisoning/download">here</a>.
+                </p>
+            </div> 
+
+            
+
+            
+        
+            <div class="header">Upload the manipulated training data set:</div>
+            <div class="content-box">
+                <center>
+                    <form method="POST" enctype="multipart/form-data">
+                        <input type="file" name="file">
+                        <input type="submit" value="Upload">
+                      </form>
+                </center>
+            </div> 
+        
+        </div>
+    
+</body></html>
