@@ -71,66 +71,40 @@
   
 ### **Week 8 – Blue Team AI Capstone**  
   
-* Google Cybersecurity Certificate  
-	[https://grow.google/certificates/cybersecurity/](https://grow.google/certificates/cybersecurity/)  
+* Build a prototype ML-powered IDS  
+* Document pipeline: data preprocessing → model training → evaluation → alert generation  
+* Deliverable: Report + working demo  
   
 ⸻  
 ## **Phase 3: Red Team Adversarial AI & Threats (Weeks 9-12)**  
   
 *Goal: Learn how attackers exploit AI systems.*  
   
-**"Hack the Box AI Red Teamer Job Role Path" **[https://academy.hackthebox.com/path/preview/ai-red-teamer](https://academy.hackthebox.com/path/preview/ai-red-teamer)  
+**Week 9 – Adversarial ML Basics**  
+* Day 1: Attack surface of ML systems  
+* Day 2: Evasion attacks (adversarial examples)  
+* Day 3: Data poisoning  
+* Day 4: Model inversion & extraction  
+* Day 5: Lab → Use CleverHans to generate adversarial examples  
   
+**Week 10 – Generative AI Risks**  
+* Day 1: Deepfakes & synthetic media  
+* Day 2: AI-assisted phishing (LLM-driven)  
+* Day 3: Malware generation w/ LLMs (theory, controlled lab only)  
+* Day 4: Case studies (AI misuse in real incidents)  
+* Day 5: Discussion + writeup on ethical concerns  
   
-### **[Fundamentals of AI ](https://academy.hackthebox.com/course/preview/fundamentals-of-ai)✅**  
+**Week 11 – Red Teaming AI Models**  
+* Day 1: Threat modeling for AI systems  
+* Day 2: Prompt injection & LLM attacks  
+* Day 3: Adversarial fuzzing for ML models  
+* Day 4: Lab → Attempt model evasion on trained IDS  
+* Day 5: Document findings  
   
-* Medium  
-* Path Sections 24 Sections  
-* Reward: +10  
-* This module provides a comprehensive guide to the theoretical foundations of Artificial Intelligence (AI). It covers various learning paradigms, including supervised, unsupervised, and reinforcement learning, providing a solid understanding of key algorithms and concepts.  
-  
-### **[Applications of AI in InfoSec](https://academy.hackthebox.com/course/preview/applications-of-ai-in-infosec) ✅**  
-  
-* Medium  
-* Path Sections 25 Sections  
-* Reward: +10  
-* This module is a practical introduction to building AI models that can be applied to various infosec domains. It covers setting up a controlled AI environment using Miniconda for package management and JupyterLab for interactive experimentation. Students will learn to handle datasets, preprocess and transform data, and implement structured workflows for tasks such as spam classification, network anomaly detection, and malware classification. Throughout the module, learners will explore essential Python libraries like Scikit-learn and PyTorch, understand effective approaches to dataset processing, and become familiar with common evaluation metrics, enabling them to navigate the entire lifecycle of AI model development and experimentation.  
-  
-### **[Introduction to Red Teaming AI](https://academy.hackthebox.com/course/preview/introduction-to-red-teaming-ai) ✅**  
-* Medium  
-* Path Sections 11 Sections  
-* Reward: +10  
-* This module provides a comprehensive introduction to the world of red teaming Artificial Intelligence (AI) and systems utilizing Machine Learning (ML) deployments. It covers an overview of common security vulnerabilities in these systems and the types of attacks that can be launched against their components.  
-  
-### **[Prompt Injection Attacks](https://academy.hackthebox.com/course/preview/prompt-injection-attacks)**  
-* Medium  
-* Path Sections 11 Sections  
-* Reward: +20  
-* This module comprehensively introduces one of the most prominent attacks on large language models (LLMs): Prompt Injection. It introduces prompt injection basics and covers detailed attack vectors based on real-world vulnerability reports. Furthermore, the module touches on academic research in the fields of novel prompt injection techniques and jailbreaks.  
-  
-### **[LLM Output Attacks](https://academy.hackthebox.com/course/preview/llm-output-attacks)**  
-* Medium  
-* Path Sections 14 Sections  
-* Reward: +20  
-* In this module, we will explore different LLM output vulnerabilities resulting from improper handling of LLM outputs and insecure LLM applications. We will also touch on LLM abuse attacks, such as hate speech campaigns and misinformation generation, with a particular focus on the detection and mitigation of these attacks.  
-  
-### **[AI Data Attacks](https://academy.hackthebox.com/course/preview/ai-data-attacks)**  
-* Hard  
-* Path Sections 25 Sections  
-* Reward: +20  
-* This module explores the intersection of Data and Artificial Intelligence, exposing how vulnerabilities within AI data pipelines can be exploited, ultimately aiming to degrade performance, achieve specific misclassifications, or execute arbitrary code.  
-  
-### **[Attacking AI - Application and System](https://academy.hackthebox.com/course/preview/attacking-ai---application-and-system)**  
-* Medium  
-* Path Sections 14 Sections  
-* Reward: +20 NEW  
-* In this module, we will explore security vulnerabilities in the application and system components of AI deployments. We will also discuss the Model Context Protocol (MCP), an orchestration protocol for AI deployments introduced in 2024, including a deep dive into how the protocol works and how security vulnerabilities may arise.  
-  
-### **Red Team AI Capstone**  
-(Not included with HTB curriculum)  
-  
+**Week 12 – Red Team AI Capstone**  
 * Design and document an adversarial attack on a basic ML system (lab only)  
 * Deliverable: Report (attack method + defense recommendations)  
+  
 ⸻  
 ## **Phase 4: Governance & Enterprise AI Security (Weeks 13–16)**  
   
@@ -163,14 +137,12 @@
 ### **Week 16 – Final Capstone**  
   
 * Build & present a **full-stack AI security solution**:  
-  
     * ML-powered anomaly detection  
     * Attack simulation + defense  
     * Governance checklist applied  
 * Deliverable: Final report + demo system  
+  
 ⸻  
 **By the end of Week 16:**   
 You’ll have gone through **defensive AI, offensive AI, adversarial ML, and governance**, with 3 mini-capstones + 1 final project.  
 ⸻  
-  
-  
