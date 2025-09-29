@@ -4,7 +4,7 @@
   
 *Goal: Build your base in cybersecurity + AI/ML fundamentals.*  
   
-### Week 1 – Cybersecurity Essentials ✅  
+### Week 1 – [Cybersecurity Essentials](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/9be376d0d707cca8a162086ebe6041406005568d/Phase%201%20Foundations/Week%201%20%E2%80%93%20Cybersecurity%20Essentials.md) ✅  
   
 * Module 1: Model of hierarchical complexity  
 * Module 2: CIA Triad (Confidentiality, Integrity, Availability), Authentication, Authorization, Accounting (AAA)  
@@ -13,7 +13,7 @@
 * Module 5: Security policies & threat landscape (malware, phishing)  
 * Module 6–7: Practice lab → Set up a virtual lab (VirtualBox + Kali + Ubuntu), Learn about [Git](https://git-scm.com) and [GitHub](https://docs.github.com/en/get-started/start-your-journey)  
   
-### Week 2 - Incident Response & Security Operations ✅  
+### Week 2 - [Incident Response & Security Operations](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/9be376d0d707cca8a162086ebe6041406005568d/Phase%201%20Foundations/Week%202%20-%20Incident%20Response%20%26%20Security%20Operations.md) ✅  
 
   
 * Module 1: Incident Response lifecycle (NIST model)  
@@ -23,7 +23,7 @@
 * Module 5: Lab → Collect and analyze logs in ELK  
 * Recap + flashcards  
   
-### Week 3 - AI/ML Fundamentals ✅  
+### Week 3 - [AI/ML Fundamentals](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/9be376d0d707cca8a162086ebe6041406005568d/Phase%201%20Foundations/Week%203%20-%20AIML%20Fundamentals.md) ✅  
 * Module 1: Intro to AI vs. ML vs. Deep Learning  
 * Module 2: Supervised vs. unsupervised learning  
 * Module 3: Data preprocessing & feature engineering  
@@ -31,7 +31,7 @@
 * Module 5: Lab → Build a basic ML classifier (scikit-learn, Iris dataset)  
 * Quiz + review notes  
   
-### Week 4 – Practical ML Foundations ✅  
+### Week 4 – [Practical ML Foundations](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/9be376d0d707cca8a162086ebe6041406005568d/Phase%201%20Foundations/Week%204%20%E2%80%93%20Practical%20ML%20Foundations.md) ✅  
 * Module 1: Neural networks overview  
 * Module 2: Gradient descent & optimization basics  
 * Module 3: Intro to TensorFlow & PyTorch  
