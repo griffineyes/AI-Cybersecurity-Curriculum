@@ -501,7 +501,7 @@ Got it — sticking with the **Week 1 outline**, toModule is:
   
 # **—**  
   
-# **Modernized Cybersecurity Curriculum: 2025 Threat Landscape Edition**  
+# **Modernized Cybersecurity Curriculum Essentials: 2025 Threat Landscape Edition**  
 ## **Curriculum Restructure: From Legacy Defense to Adaptive Security**  
   
 **Core Philosophy Shift**  
