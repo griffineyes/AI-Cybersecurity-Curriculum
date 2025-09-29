@@ -1,226 +1,147 @@
-# AI Cybersecurity Curriculum Week 2: Incident Response & Security Operations
-
-## Executive Summary
-
-This week builds upon foundational AI cybersecurity concepts by focusing on operational excellence in incident response and security operations. The curriculum incorporates the latest NIST SP 800-61 Revision 3 (April 2025), which aligns incident response with the NIST Cybersecurity Framework (CSF) 2.0's six core functions, providing students with contemporary, evidence-based frameworks for managing AI-specific security incidents.
-
-## Learning Objectives
-
-By the end of this week, students will:
-
-1. **Master Contemporary Frameworks**: Apply NIST SP 800-61r3 and CSF 2.0 principles to AI-specific incident response scenarios
-2. **Design AI-Augmented SOC Operations**: Implement AI-driven Security Operations Center capabilities that enhance human analyst productivity while maintaining strategic oversight
-3. **Execute AI Incident Response**: Develop specialized incident response plans for AI systems, including model tampering, data poisoning, and adversarial attacks
-4. **Optimize Resource Allocation**: Leverage AI automation to reduce alert fatigue by up to 90% while improving threat detection accuracy to 99.93%
-
-## Module 1: Contemporary Incident Response Frameworks (3 hours)
-
-### 1.1 NIST CSF 2.0 and SP 800-61r3 Integration
-
-**Core Framework Understanding**
-
-The six CSF 2.0 Functions organize cybersecurity outcomes at their highest level: Govern (GV), Identify (ID), Protect (PR), Detect (DE), Respond (RS), and Recover (RC). Unlike previous versions that focused on specific technical procedures, Revision 3 emphasizes improving cybersecurity risk management across all CSF 2.0 Functions to better support organizational incident response capabilities.
-
-**Historical Evolution and Evidence Base**
-
-The shift from NIST SP 800-61r2 to r3 represents a fundamental change in incident response philosophy. Rather than prescriptive technical procedures, the new framework provides outcome-based guidance that adapts to rapidly changing technological environments. This approach is supported by extensive industry collaboration during the Biden administration's cybersecurity modernization initiative, ensuring broad applicability across sectors.
-
-**Practical Implementation**
-
-Organizations implementing CSF 2.0 report measurable improvements in incident management. The framework's emphasis on "shared responsibility" models allows organizations to leverage external expertise while maintaining clear accountability through contractual arrangements.
-
-### 1.2 AI-Specific Incident Categories
-
-**Model Integrity Incidents**
-
-AI models face unique threats including unauthorized access, model tampering, and adversarial attacks that traditional cybersecurity frameworks don't adequately address. These incidents require specialized detection and response capabilities that consider the probabilistic nature of AI decision-making.
-
-**Data Ecosystem Breaches**
-
-Analysis of GenAI usage patterns reveals that 1 in every 80 prompts poses high risk of sensitive data leakage, with 7.5% of prompts containing potentially sensitive information. This data demonstrates the critical need for AI-specific monitoring and response protocols.
-
-**Supply Chain Vulnerabilities**
-
-The complexity of AI systems creates large and dynamic attack surfaces, with attackers finding new opportunities to manipulate outcomes or extract data through model dependencies and training data sources.
-
-### 1.3 ROI and Success Metrics
-
-**Quantifiable Outcomes**
-
-Organizations implementing modern incident response frameworks achieve significant cost reductions. IBM research demonstrates that organizations using AI and automation in security operations reduced breach lifecycle by an average of 80 days and saved an average of $1.88 million per breach.
-
-**Operational Efficiency Gains**
-
-Forrester studies show organizations leveraging AIOps experienced 50% reduction in mean time to repair (MTTR) and 50% decrease in severe incidents, demonstrating measurable operational improvements.
-
-## Module 2: AI-Augmented Security Operations Centers (4 hours)
-
-### 2.1 SOC Transformation Architecture
-
-**Human-AI Collaboration Model**
-
-Harvard Business School research indicates that "AI won't replace humans, but humans with AI will replace humans without AI". This principle guides modern SOC design, where AI serves as augmentation rather than replacement, creating competitive advantage in cyber defense.
-
-**Autonomous SOC Maturity Model**
-
-The progression from Level 0 (Manual Operations) to Level 4 (Autonomous Operations) requires gradual capability building, with humans remaining essential for strategic decision-making and exception handling at every level.
-
-### 2.2 AI Integration Best Practices
-
-**Alert Management and Triage**
-
-Modern SOCs face an average of 4,000+ daily alerts, with AI systems now capable of reducing false positives by up to 90% through sophisticated behavioral analysis. Real-world implementations demonstrate 99.93% accuracy in AI-driven triage, saving upwards of 200 analyst hours per week.
-
-**Threat Detection and Response**
-
-AI systems learn normal network and system activity patterns, then detect anomalies such as unusual login locations or abnormal file propagation in real-time. Advanced AI systems can automatically block suspicious users or isolate infected machines while keeping security teams informed.
-
-**Predictive Capabilities**
-
-Modern SOCs are shifting from reactive to proactive security postures through continuous threat intelligence integration and AI-powered prediction of attack patterns.
-
-### 2.3 Implementation Framework
-
-**Data Management and Quality**
-
-Effective AI SOC implementation requires continuous monitoring, validation, and updating of data sources to provide accurate inputs for AI algorithms. Organizations must establish robust data governance to ensure AI system effectiveness.
-
-**Change Management**
-
-Successful AI integration requires clear communication with security teams, necessary training, and gradual integration into existing practices. This approach minimizes disruption while maximizing adoption.
-
-**Integration Challenges**
-
-Organizations face complexity in integrating AI-driven solutions with existing security tools, requiring significant time and technical expertise to ensure seamless compatibility.
-
-## Module 3: AI-Specific Incident Response Procedures (3 hours)
-
-### 3.1 AI Attack Vector Analysis
-
-**Adversarial AI Threats**
-
-The 2025 threat landscape shows AI being used across the entire cyber attack lifecycle, from code generation to campaign optimization. Tools like FunkSec's AI-generated DDoS modules demonstrate how ransomware groups integrate AI into operations.
-
-**Social Engineering Evolution**
-
-Autonomous and interactive deepfakes are drastically improving the realism and scale of social engineering attacks, with real-world incidents such as AI-generated audio impersonation causing significant financial harm.
-
-**Data Poisoning and Retrieval Attacks**
-
-Modern LLMs accessing real-time information face "retrieval poisoning" risks, as demonstrated by the Russian "Pravda" network creating 3.6 million articles in 2024 that influenced AI chatbot responses 33% of the time.
-
-### 3.2 Specialized Response Protocols
-
-**AI System Isolation Procedures**
-
-When AI model integrity is compromised, organizations must implement immediate containment without disrupting dependent business processes. This requires pre-planned degradation pathways and manual override capabilities.
-
-**Forensic Analysis of AI Systems**
-
-AI-assisted investigation involves advanced capabilities for data collection, analysis, and event reconstruction, requiring specialized tools to analyze vast amounts of log data, network traffic, and system artifacts.
-
-**Model Recovery and Validation**
-
-Post-incident recovery for AI systems requires validation of model integrity, retraining protocols, and verification of training data authenticity before restoration.
-
-### 3.3 Regulatory and Compliance Considerations
-
-**AI Governance Frameworks**
-
-AI models require clear oversight and accountability for AI risk, including documentation of training data sources, approval workflows, and model changes. Regulations like GDPR apply fully to AI systems, especially when handling personal or sensitive customer data.
-
-**Incident Reporting Requirements**
-
-The EU AI Act sets specific rules for how AI systems must operate, including data usage restrictions and protection requirements, requiring specialized incident reporting procedures.
-
-## Module 4: Automation and Orchestration (3 hours)
-
-### 4.1 Security Orchestration, Automation, and Response (SOAR) Evolution
-
-**Beyond Traditional SOAR**
-
-Security automation has evolved beyond traditional SOAR, with Hyperautomation and AI Agents forming new cornerstones of autonomous SOCs. This evolution seamlessly integrates security stacks and instantly automates security processes using AI-generated workflows.
-
-**Multi-Agent Systems**
-
-Specialized AI Agents automate incident response by interpreting natural language instructions and collaborating to autonomously execute tasks such as alert triage and containment.
-
-### 4.2 Playbook-Free Automation
-
-**Dynamic Response Capabilities**
-
-Modern automation eliminates the need for predefined scripts, operating autonomously and dynamically selecting necessary tests to determine alert maliciousness and conduct root cause analysis.
-
-**Maintenance-Free Operations**
-
-Unlike traditional tools requiring continuous playbook updates, modern AI systems learn from real-time telemetry data and adjust to environmental changes without intervention.
-
-### 4.3 Implementation Metrics and Success Factors
-
-**Deployment Speed**
-
-Turnkey automation capabilities enable organizations to deploy solutions within minutes through seamless API integration, instantly augmenting SOC capabilities.
-
-**Scalability Metrics**
-
-AI agents handle influxes of security events by triaging, investigating, and remediating the majority of Tier-1 and Tier-2 alerts, enabling SOCs to scale operations without increasing headcount.
-
-## Practical Exercises
-
-### Exercise 1: Incident Response Plan Development (2 hours)
-Students develop comprehensive incident response plans for AI-specific scenarios using NIST SP 800-61r3 framework, incorporating real-world attack vectors identified in current threat intelligence.
-
-### Exercise 2: SOC Automation Design (2 hours)
-Teams design AI-augmented SOC architectures that balance automation with human oversight, using case studies from successful implementations.
-
-### Exercise 3: Threat Simulation (3 hours)
-Hands-on simulation of AI-specific attacks including model poisoning and adversarial inputs, with students implementing detection and response procedures.
-
-## Assessment Framework
-
-### Theoretical Knowledge (40%)
-- NIST framework comprehension and application
-- AI-specific threat vector identification
-- Regulatory compliance understanding
-
-### Practical Application (40%)
-- Incident response plan quality and completeness
-- SOC design effectiveness and feasibility
-- Automation implementation strategy
-
-### Case Study Analysis (20%)
-- Real-world incident analysis and lessons learned
-- Cost-benefit analysis of proposed solutions
-- Ethical considerations in AI security operations
-
-## Required Resources
-
-### Primary Texts
-- NIST SP 800-61r3: Incident Response Recommendations and Considerations for Cybersecurity Risk Management
-- NIST Cybersecurity Framework (CSF) 2.0
-- SANS Draft Critical AI Security Guidelines v1.1
-
-### Supplementary Materials
-- IBM Cost of Data Breach Report 2025
-- Check Point Research AI Security Report 2025
-- Trend Micro State of AI Security Report 1H 2025
-
-### Technical Tools
-- MITRE ATLAS framework for AI threat modeling
-- AI Security testing environments
-- SOC simulation platforms
-
-## Industry Connections
-
-Students will engage with practicing professionals through:
-- Guest lectures from SOC managers implementing AI technologies
-- Case study presentations from organizations with mature AI incident response capabilities
-- Industry mentorship programs connecting students with cybersecurity leaders
-
-## Conclusion
-
-This curriculum provides students with current, evidence-based knowledge of AI cybersecurity incident response and security operations. By combining theoretical frameworks with practical implementation strategies, students develop competencies directly applicable to contemporary cybersecurity challenges. The emphasis on measurable outcomes and ROI ensures graduates can demonstrate value to organizations while maintaining ethical standards in AI security operations.
-
----
-
-*This curriculum incorporates the latest industry research and government frameworks, ensuring students receive education aligned with current professional standards and regulatory requirements.*
+# **AI Cybersecurity 16-Week Curriculum**  
+  
+## **I Phase 1: Foundations (Weeks 1–4)**  
+  
+*Goal: Build your base in cybersecurity + AI/ML fundamentals.*  
+  
+### Week 1 – Cybersecurity Essentials** ✅**  
+  
+* Module 1: Model of hierarchical complexity  
+* Module 2: CIA Triad (Confidentiality, Integrity, Availability), Authentication, Authorization, Accounting (AAA)  
+* Module 3: Network security basics (firewalls, IDS, IPS)  
+* Module 4: Cryptography 101 (hashing, symmetric vs. asymmetric)  
+* Module 5: Security policies & threat landscape (malware, phishing)  
+* Module 6–7: Practice lab → Set up a virtual lab (VirtualBox + Kali + Ubuntu), Learn about [Git](https://git-scm.com) and [GitHub](https://docs.github.com/en/get-started/start-your-journey)  
+  
+### Week 2 - Incident Response & Security Operations  
+  
+* Module 1: Incident Response lifecycle (NIST model)  
+* Module 2: Digital forensics basics  
+* Module 3: SIEM overview (Splunk / ELK stack intro)  
+* Module 4: Security monitoring & logging  
+* Module 5: Lab → Collect and analyze logs in ELK  
+* Recap + flashcards  
+  
+### Week 3 - AI/ML Fundamentals** ✅**  
+* Module 1: Intro to AI vs. ML vs. Deep Learning  
+* Module 2: Supervised vs. unsupervised learning  
+* Module 3: Data preprocessing & feature engineering  
+* Module 4: Training vs. testing sets, overfitting, bias  
+* Module 5: Lab → Build a basic ML classifier (scikit-learn, Iris dataset)  
+* Quiz + review notes  
+  
+### Week 4 – Practical ML Foundations** ✅**  
+* Module 1: Neural networks overview  
+* Module 2: Gradient descent & optimization basics  
+* Module 3: Intro to TensorFlow & PyTorch  
+* Module 4: ML pipeline in cybersecurity use cases  
+* Module 5: Lab → Train a simple spam classifier using Naive Bayes  
+* Reflection journal  
+  
+⸻  
+## **Phase 2: Blue Team AI for Cyber Defense (Weeks 5–8)**  
+  
+*Goal: Use AI for detection & response.*  
+  
+### **Week 5 – Threat Detection with ML**  
+  
+* Module 1: Intrusion Detection Systems (IDS/IPS)  
+* Module 2: Dataset overview (KDD99, NSL-KDD, UNSW-NB15)  
+* Module 3: Feature extraction for network data  
+* Module 4: Lab → Train anomaly detection model with scikit-learn  
+* Module 5: Evaluate precision, recall, F1 in cybersecurity context  
+  
+### **Week 6 – Malware & Phishing Detection**  
+  
+* Module 1: Malware classification (static vs. dynamic analysis)  
+* Module 2: Using ML for phishing detection  
+* Module 3: Lab → Train ML model to classify phishing URLs  
+* Module 4: Adversarial examples in malware detection  
+* Module 5: Writeup → Security blog-style report on findings  
+  
+### **Week 7 – Security Monitoring with AI**  
+  
+* Module 1: SIEM + AI integrations (Splunk Machine Learning Toolkit)  
+* Module 2: Log anomaly detection with ML  
+* Module 3: Lab → Detect anomalies in server logs using Python  
+* Module 4: Case study: Microsoft Sentinel AI features  
+* Module 5: Mini-project → Build simple log anomaly dashboard  
+  
+### **Week 8 – Blue Team AI Capstone**  
+  
+* Build a prototype ML-powered IDS  
+* Document pipeline: data preprocessing → model training → evaluation → alert generation  
+* Deliverable: Report + working demo  
+  
+⸻  
+## **Phase 3: Red Team Adversarial AI & Threats (Weeks 9-12)**  
+  
+*Goal: Learn how attackers exploit AI systems.*  
+  
+**Week 9 – Adversarial ML Basics**  
+* Module 1: Attack surface of ML systems  
+* Module 2: Evasion attacks (adversarial examples)  
+* Module 3: Data poisoning  
+* Module 4: Model inversion & extraction  
+* Module 5: Lab → Use CleverHans to generate adversarial examples  
+  
+**Week 10 – Generative AI Risks**  
+* Module 1: Deepfakes & synthetic media  
+* Module 2: AI-assisted phishing (LLM-driven)  
+* Module 3: Malware generation w/ LLMs (theory, controlled lab only)  
+* Module 4: Case studies (AI misuse in real incidents)  
+* Module 5: Discussion + writeup on ethical concerns  
+  
+**Week 11 – Red Teaming AI Models**  
+* Module 1: Threat modeling for AI systems  
+* Module 2: Prompt injection & LLM attacks  
+* Module 3: Adversarial fuzzing for ML models  
+* Module 4: Lab → Attempt model evasion on trained IDS  
+* Module 5: Document findings  
+  
+**Week 12 – Red Team AI Capstone**  
+* Design and document an adversarial attack on a basic ML system (lab only)  
+* Deliverable: Report (attack method + defense recommendations)  
+  
+⸻  
+## **Phase 4: Governance & Enterprise AI Security (Weeks 13–16)**  
+  
+*Goal: Secure real-world deployments and understand compliance.*  
+  
+### **Week 13 – Governance & Risk**  
+  
+* Module 1: NIST AI Risk Management Framework  
+* Module 2: EU AI Act overview  
+* Module 3: U.S. AI Executive Orders & policies  
+* Module 4: Privacy regulations (GDPR, HIPAA)  
+* Module 5: Case study → AI governance failures  
+  
+### **Week 14 – Enterprise AI Security Tools**  
+  
+* Module 1: AI in SOC workflows  
+* Module 2: Endpoint protection w/ AI (CrowdStrike, SentinelOne)  
+* Module 3: AI for threat intel (Recorded Future, Darktrace)  
+* Module 4: Lab → Build a mock SOC playbook integrating AI alerts  
+* Module 5: Group presentation (if team learning)  
+  
+### **Week 15 – Future Trends in AI Security**  
+  
+* Module 1: Explainable AI (XAI) in cybersecurity  
+* Module 2: Federated learning for privacy  
+* Module 3: AI in IoT and OT security  
+* Module 4: Quantum-safe cryptography + AI  
+* Module 5: Research paper review  
+  
+### **Week 16 – Final Capstone**  
+  
+* Build & present a **full-stack AI security solution**:  
+  
+    * ML-powered anomaly detection  
+    * Attack simulation + defense  
+    * Governance checklist applied  
+* Deliverable: Final report + demo system  
+  
+⸻  
+**By the end of Week 16:**   
+You’ll have gone through **defensive AI, offensive AI, adversarial ML, and governance**, with 3 mini-capstones + 1 final project.  
+⸻  
