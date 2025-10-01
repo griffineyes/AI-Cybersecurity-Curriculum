@@ -44,7 +44,7 @@
   
 *Goal: Use AI for detection & response.*  
   
-### **Week 5 – [Threat Detection with ML](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/c62baed5a6cff90388f7ddaa3c66bc44877f6504/Phase%202%20Blue%20Team%20AI%20for%20Cyber%20Defense/Week%205%20-%20Threat%20Detection%20with%20Machine%20Learning.md)  
+### Week 5 – [Threat Detection with ML](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/c62baed5a6cff90388f7ddaa3c66bc44877f6504/Phase%202%20Blue%20Team%20AI%20for%20Cyber%20Defense/Week%205%20-%20Threat%20Detection%20with%20Machine%20Learning.md)  
   
 * Module 1: Intrusion Detection Systems (IDS/IPS)  
 * Module 2: Dataset overview (KDD99, NSL-KDD, UNSW-NB15)  
@@ -52,7 +52,7 @@
 * Module 4: Lab → Train anomaly detection model with scikit-learn  
 * Module 5: Evaluate precision, recall, F1 in cybersecurity context  
   
-### **Week 6 – [Malware & Phishing Detection](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/c62baed5a6cff90388f7ddaa3c66bc44877f6504/Phase%202%20Blue%20Team%20AI%20for%20Cyber%20Defense/Week%206%20-%20Malware%20%26%20Phishing%20Detection%20with%20Machine%20Learning.md)  
+### Week 6 – [Malware & Phishing Detection](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/c62baed5a6cff90388f7ddaa3c66bc44877f6504/Phase%202%20Blue%20Team%20AI%20for%20Cyber%20Defense/Week%206%20-%20Malware%20%26%20Phishing%20Detection%20with%20Machine%20Learning.md)  
   
 * Module 1: Malware classification (static vs. dynamic analysis)  
 * Module 2: Using ML for phishing detection  
@@ -60,7 +60,7 @@
 * Module 4: Adversarial examples in malware detection  
 * Module 5: Writeup → Security blog-style report on findings  
   
-### **Week 7 – [Security Monitoring with AI](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/c62baed5a6cff90388f7ddaa3c66bc44877f6504/Phase%202%20Blue%20Team%20AI%20for%20Cyber%20Defense/Week%207-%20Security%20Monitoring%20with%20AI.md)  
+### Week 7 – [Security Monitoring with AI](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/c62baed5a6cff90388f7ddaa3c66bc44877f6504/Phase%202%20Blue%20Team%20AI%20for%20Cyber%20Defense/Week%207-%20Security%20Monitoring%20with%20AI.md)  
   
 * Module 1: SIEM + AI integrations (Splunk Machine Learning Toolkit)  
 * Module 2: Log anomaly detection with ML  
@@ -68,7 +68,7 @@
 * Module 4: Case study: Microsoft Sentinel AI features  
 * Module 5: Mini-project → Build simple log anomaly dashboard  
   
-### **Week 8 – [Blue Team AI Capstone](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/c62baed5a6cff90388f7ddaa3c66bc44877f6504/Phase%202%20Blue%20Team%20AI%20for%20Cyber%20Defense/Week%208%20-%20Blue%20Team%20AI%20Capstone%20-%20Building%20an%20ML-Powered%20Intrusion%20Detection%20System.md)  
+### Week 8 – [Blue Team AI Capstone](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/c62baed5a6cff90388f7ddaa3c66bc44877f6504/Phase%202%20Blue%20Team%20AI%20for%20Cyber%20Defense/Week%208%20-%20Blue%20Team%20AI%20Capstone%20-%20Building%20an%20ML-Powered%20Intrusion%20Detection%20System.md)  
   
 * Build a prototype ML-powered IDS  
 * Document pipeline: data preprocessing → model training → evaluation → alert generation  
