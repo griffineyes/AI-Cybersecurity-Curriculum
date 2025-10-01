@@ -79,14 +79,14 @@
   
 *Goal: Learn how attackers exploit AI systems.*  
   
-**Week 9 – Adversarial ML Basics**  
+**Week 9 – Adversarial ML Basics**  ✅
 * Module 1: Attack surface of ML systems  
 * Module 2: Evasion attacks (adversarial examples)  
 * Module 3: Data poisoning  
 * Module 4: Model inversion & extraction  
 * Module 5: Lab → Use CleverHans to generate adversarial examples  
   
-**Week 10 – Generative AI Risks**  
+**Week 10 – Generative AI Risks**  ✅
 * Module 1: Deepfakes & synthetic media  
 * Module 2: AI-assisted phishing (LLM-driven)  
 * Module 3: Malware generation w/ LLMs (theory, controlled lab only)  
