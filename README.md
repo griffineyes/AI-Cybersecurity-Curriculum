@@ -104,6 +104,9 @@
 * Design and document an adversarial attack on a basic ML system (lab only)  
 * Deliverable: Report (attack method + defense recommendations)  
   
+### Optional:  
+[HTB AI Red Teamer](https://academy.hackthebox.com/catalogue/paths)  
+  
 ⸻  
 ## **Phase 4: Governance & Enterprise AI Security (Weeks 13–16)**  
   
