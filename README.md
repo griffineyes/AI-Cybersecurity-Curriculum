@@ -93,14 +93,14 @@
 * Module 4: Case studies (AI misuse in real incidents)  
 * Module 5: Discussion + writeup on ethical concerns  
   
-**Week 11 – Red Teaming AI Models**  
+**Week 11 – Red Teaming AI Models**  ✅
 * Module 1: Threat modeling for AI systems  
 * Module 2: Prompt injection & LLM attacks  
 * Module 3: Adversarial fuzzing for ML models  
 * Module 4: Lab → Attempt model evasion on trained IDS  
 * Module 5: Document findings  
   
-**Week 12 – Red Team AI Capstone**  
+**Week 12 – Red Team AI Capstone**  ✅
 * Design and document an adversarial attack on a basic ML system (lab only)  
 * Deliverable: Report (attack method + defense recommendations)  
   
