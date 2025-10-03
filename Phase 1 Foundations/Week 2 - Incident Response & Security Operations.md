@@ -1,4 +1,4 @@
-# **Week 2 - Incident Response & Security Operations**  
+# **Week 2: Incident Response & Security Operations**  
   
 ## **Executive Summary**  
   
