@@ -1,4 +1,4 @@
-# Week 3 - AI/ML Fundamentals
+# Week 3: AI/ML Fundamentals
 
 ## Module 1: Artificial Intelligence vs. Machine Learning vs. Deep Learning
 
