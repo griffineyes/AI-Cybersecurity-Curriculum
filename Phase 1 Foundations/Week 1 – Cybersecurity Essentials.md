@@ -1,4 +1,4 @@
-****Week 1 – Cybersecurity Essentials****  
+# Week 1 – Cybersecurity Essentials  
   
 *Goal: Learn the foundations of cybersecurity concepts and set up your lab environment.*  
   
