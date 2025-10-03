@@ -79,28 +79,32 @@
   
 *Goal: Learn how attackers exploit AI systems.*  
   
-**Week 9 – Adversarial ML Basics**  ✅
+### Week 9 – [Adversarial ML Basics](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/ace67fb4221b3e094b44a94d78e8a1cbfd8075d2/Phase%203%20Red%20Team%20Adversarial%20AI%20%26%20Threats/Week%209-%20Adversarial%20Machine%20Learning%20Basics.md)  ✅
+  
 * Module 1: Attack surface of ML systems  
 * Module 2: Evasion attacks (adversarial examples)  
 * Module 3: Data poisoning  
 * Module 4: Model inversion & extraction  
 * Module 5: Lab → Use CleverHans to generate adversarial examples  
   
-**Week 10 – Generative AI Risks**  ✅
+### Week 10 – [Generative AI Risks](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/ace67fb4221b3e094b44a94d78e8a1cbfd8075d2/Phase%203%20Red%20Team%20Adversarial%20AI%20%26%20Threats/Week%2010-%20Generative%20AI%20Risks%20-%20Comprehensive%20Analysis.md)  ✅
+  
 * Module 1: Deepfakes & synthetic media  
 * Module 2: AI-assisted phishing (LLM-driven)  
 * Module 3: Malware generation w/ LLMs (theory, controlled lab only)  
 * Module 4: Case studies (AI misuse in real incidents)  
 * Module 5: Discussion + writeup on ethical concerns  
   
-**Week 11 – Red Teaming AI Models**  ✅
+### Week 11 – [Red Teaming AI Models](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/ace67fb4221b3e094b44a94d78e8a1cbfd8075d2/Phase%203%20Red%20Team%20Adversarial%20AI%20%26%20Threats/Week%2011-%20Red%20Teaming%20AI%20Models%20-%20Comprehensive%20Overview.md)  ✅
+  
 * Module 1: Threat modeling for AI systems  
 * Module 2: Prompt injection & LLM attacks  
 * Module 3: Adversarial fuzzing for ML models  
 * Module 4: Lab → Attempt model evasion on trained IDS  
 * Module 5: Document findings  
   
-**Week 12 – Red Team AI Capstone**  ✅
+### Week 12 – [Red Team AI Capstone](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/ace67fb4221b3e094b44a94d78e8a1cbfd8075d2/Phase%203%20Red%20Team%20Adversarial%20AI%20%26%20Threats/Week%2012-%20Red%20Team%20AI%20Capstone%20-%20Comprehensive%20Academic%20Overview.md)  ✅
+  
 * Design and document an adversarial attack on a basic ML system (lab only)  
 * Deliverable: Report (attack method + defense recommendations)  
   
