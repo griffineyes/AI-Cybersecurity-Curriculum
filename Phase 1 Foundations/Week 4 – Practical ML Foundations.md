@@ -1,4 +1,4 @@
-# Week 4: Practical ML Foundations
+# Week 4 - Practical ML Foundations
 ## A Comprehensive Deep Dive
 
 ---
