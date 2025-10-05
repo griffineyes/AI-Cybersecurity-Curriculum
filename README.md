@@ -52,7 +52,7 @@
 * Module 4: Lab → Train anomaly detection model with scikit-learn  
 * Module 5: Evaluate precision, recall, F1 in cybersecurity context  
   
-### Week 6 – [Malware & Phishing Detection](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/c62baed5a6cff90388f7ddaa3c66bc44877f6504/Phase%202%20Blue%20Team%20AI%20for%20Cyber%20Defense/Week%206%20-%20Malware%20%26%20Phishing%20Detection%20with%20Machine%20Learning.md)  
+### Week 6 – [Malware & Phishing Detection](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/c62baed5a6cff90388f7ddaa3c66bc44877f6504/Phase%202%20Blue%20Team%20AI%20for%20Cyber%20Defense/Week%206%20-%20Malware%20%26%20Phishing%20Detection%20with%20Machine%20Learning.md) ✅⭐️  
   
 * Module 1: Malware classification (static vs. dynamic analysis)  
 * Module 2: Using ML for phishing detection  
