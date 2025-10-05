@@ -44,7 +44,7 @@
   
 *Goal: Use AI for detection & response.*  
   
-### Week 5 – [Threat Detection with ML](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/c62baed5a6cff90388f7ddaa3c66bc44877f6504/Phase%202%20Blue%20Team%20AI%20for%20Cyber%20Defense/Week%205%20-%20Threat%20Detection%20with%20Machine%20Learning.md)  
+### Week 5 – [Threat Detection with ML](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/c62baed5a6cff90388f7ddaa3c66bc44877f6504/Phase%202%20Blue%20Team%20AI%20for%20Cyber%20Defense/Week%205%20-%20Threat%20Detection%20with%20Machine%20Learning.md) ✅  
   
 * Module 1: Intrusion Detection Systems (IDS/IPS)  
 * Module 2: Dataset overview (KDD99, NSL-KDD, UNSW-NB15)  
