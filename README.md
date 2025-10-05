@@ -60,7 +60,7 @@
 * Module 4: Adversarial examples in malware detection  
 * Module 5: Writeup → Security blog-style report on findings  
   
-### Week 7 – [Security Monitoring with AI](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/c62baed5a6cff90388f7ddaa3c66bc44877f6504/Phase%202%20Blue%20Team%20AI%20for%20Cyber%20Defense/Week%207-%20Security%20Monitoring%20with%20AI.md)  
+### Week 7 – [Security Monitoring with AI](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/c62baed5a6cff90388f7ddaa3c66bc44877f6504/Phase%202%20Blue%20Team%20AI%20for%20Cyber%20Defense/Week%207-%20Security%20Monitoring%20with%20AI.md) ✅ ⭐️  
   
 * Module 1: SIEM + AI integrations (Splunk Machine Learning Toolkit)  
 * Module 2: Log anomaly detection with ML  
