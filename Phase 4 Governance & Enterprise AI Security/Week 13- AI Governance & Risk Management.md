@@ -248,9 +248,6 @@ The original NIST AI RMF 1.0, released January 26, 2023, remains the voluntary f
 
 ---
 
-This update provides students with current, academically-grounded information on the U.S. AI policy landscape as of October 2025, maintaining the professional and evidence-based approach appropriate for a cybersecurity curriculum.
----
-
 ## **Module 4: Privacy Regulations (GDPR, HIPAA, and AI Intersections)**
 
 ### GDPR's AI Implications
