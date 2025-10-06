@@ -179,6 +179,78 @@ Multiple states are enacting AI-specific legislation:
 
 ---
 
+### **Module 3: U.S. AI Executive Orders & Policies (2025 Update)**
+
+#### **Current Policy Framework Overview**
+
+The Trump administration fundamentally shifted U.S. AI policy in 2025, revoking the Biden administration's Executive Order 14110 and establishing a new framework focused on "American AI dominance" and deregulation.
+
+#### **Key Executive Orders (2025)**
+
+**1. Executive Order 14179: "Removing Barriers to American Leadership in Artificial Intelligence"** (January 23, 2025)
+This foundational order established the policy to "sustain and enhance America's global AI dominance" and directed the development of an AI Action Plan within 180 days. It revoked previous AI policies considered barriers to innovation.
+
+**2. "Preventing Woke AI in the Federal Government"** (July 23, 2025)
+This order establishes "Unbiased AI Principles" for federal procurement, requiring Large Language Models to prioritize truthfulness and ideological neutrality. It directs agencies to procure only LLMs developed according to truth-seeking and ideological neutrality principles.
+
+**3. "Advancing United States Leadership in Artificial Intelligence Infrastructure"** (January 14, 2025)
+This order focuses on enabling AI infrastructure development, including data centers on federal land, with five guiding principles linking AI infrastructure to national security objectives.
+
+**4. "Promoting The Export of the American AI Technology Stack"** (July 23, 2025)
+This order establishes a coordinated national effort to promote full-stack American AI technology packages for export, including the American AI Exports Program to support deployment to allies.
+
+**5. "Advancing Artificial Intelligence Education for American Youth"** (April 23, 2025)
+This order establishes the White House Task Force on Artificial Intelligence Education and the Presidential Artificial Intelligence Challenge to promote AI competency in students.
+
+#### **America's AI Action Plan** (July 23, 2025)
+
+The comprehensive "Winning the Race: America's AI Action Plan" identifies over 90 federal policy actions across three pillars: Accelerating Innovation, Building American AI Infrastructure, and Leading in International Diplomacy and Security.
+
+**Key Policy Actions:**
+- Exporting full-stack AI packages (hardware, models, software, applications, standards) to allies
+- Deregulation focus and call for uniform federal standards to supersede state AI regulations
+- Revised federal agency guidance on AI use (OMB M-25-21) and procurement (OMB M-25-22) released April 7, 2025
+
+#### **NIST AI Risk Management Framework Status**
+
+The administration has directed removal of references to Diversity, Equity, and Inclusion (DEI) from the NIST AI Risk Management Framework, though the underlying legal framework under Title VII and employment discrimination statutes remains unchanged.
+
+The original NIST AI RMF 1.0, released January 26, 2023, remains the voluntary framework with planned updates, including a Generative AI Profile (NIST-AI-600-1) released July 26, 2024.
+
+#### **Implications for Cybersecurity Professionals**
+
+**Policy Priorities:**
+- National security integration with AI development
+- Deregulation and innovation acceleration
+- Federal procurement standards for "trustworthy" AI
+- Infrastructure development and energy considerations
+- International competitiveness and export leadership
+
+**Risk Management Considerations:**
+- Legal requirements under employment discrimination statutes remain unchanged regardless of federal guidance frameworks
+- Tension between federal deregulation and state-level AI regulations
+- Need to balance innovation with security, privacy, and civil rights protections
+- Emerging focus on ideological neutrality in AI systems for government use
+
+---
+
+**Learning Objectives:**
+- Understand the current U.S. AI policy framework and recent executive actions
+- Analyze the shift from risk-focused to dominance-focused AI governance
+- Evaluate implications for enterprise AI security and compliance programs
+- Compare federal deregulation approach with evolving state regulations
+
+**Recommended Resources:**
+- [Winning the Race: America's AI Action Plan](https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/) (July 23, 2025)
+- OMB Memoranda M-25-21 and M-25-22 on federal AI use and procurement
+- NIST AI Risk Management Framework 1.0 and updates
+- Comparative analysis of state AI regulations vs. federal approach
+
+---
+
+This update provides students with current, academically-grounded information on the U.S. AI policy landscape as of October 2025, maintaining the professional and evidence-based approach appropriate for a cybersecurity curriculum.
+---
+
 ## **Module 4: Privacy Regulations (GDPR, HIPAA, and AI Intersections)**
 
 ### GDPR's AI Implications
