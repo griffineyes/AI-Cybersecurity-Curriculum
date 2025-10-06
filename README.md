@@ -116,7 +116,7 @@
   
 *Goal: Secure real-world deployments and understand compliance.*  
   
-### Week 13 – [Governance & Risk](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/b72036b94f85aea533e47d0e6b9ac0d167042c03/Phase%204%20Governance%20%26%20Enterprise%20AI%20Security/Week%2013-%20AI%20Governance%20%26%20Risk%20Management.md)  
+### Week 13 – [Governance & Risk](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/b72036b94f85aea533e47d0e6b9ac0d167042c03/Phase%204%20Governance%20%26%20Enterprise%20AI%20Security/Week%2013-%20AI%20Governance%20%26%20Risk%20Management.md) ✅  
   
 * Module 1: NIST AI Risk Management Framework  
 * Module 2: EU AI Act overview  
@@ -124,7 +124,7 @@
 * Module 4: Privacy regulations (GDPR, HIPAA)  
 * Module 5: Case study → AI governance failures  
   
-### Week 14 – [Enterprise AI Security Tools](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/b72036b94f85aea533e47d0e6b9ac0d167042c03/Phase%204%20Governance%20%26%20Enterprise%20AI%20Security/Week%2014-%20Enterprise%20AI%20Security%20Tools.md)  
+### Week 14 – [Enterprise AI Security Tools](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/b72036b94f85aea533e47d0e6b9ac0d167042c03/Phase%204%20Governance%20%26%20Enterprise%20AI%20Security/Week%2014-%20Enterprise%20AI%20Security%20Tools.md) ✅  
   
 * Module 1: AI in SOC workflows  
 * Module 2: Endpoint protection w/ AI (CrowdStrike, SentinelOne)  
@@ -132,7 +132,7 @@
 * Module 4: Lab → Build a mock SOC playbook integrating AI alerts  
 * Module 5: Group presentation (if team learning)  
   
-### Week 15 – [Future Trends in AI Security](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/b72036b94f85aea533e47d0e6b9ac0d167042c03/Phase%204%20Governance%20%26%20Enterprise%20AI%20Security/Week%2015-%20Future%20Trends%20in%20AI%20Security.md)  
+### Week 15 – [Future Trends in AI Security](https://github.com/griffineyes/AI-Cybersecurity-Curriculum/blob/b72036b94f85aea533e47d0e6b9ac0d167042c03/Phase%204%20Governance%20%26%20Enterprise%20AI%20Security/Week%2015-%20Future%20Trends%20in%20AI%20Security.md) ✅  
   
 * Module 1: Explainable AI (XAI) in cybersecurity  
 * Module 2: Federated learning for privacy  
