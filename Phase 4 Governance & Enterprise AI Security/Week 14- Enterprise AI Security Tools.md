@@ -36,10 +36,10 @@ AI assists human threat hunters through:
 
 Organizations typically adopt AI in SOCs through a **maturity progression**:
 
-**Level 1 - Reactive AI**: Basic anomaly detection, signature-based automation
-**Level 2 - Analytical AI**: Behavioral analytics, user entity behavior analytics (UEBA)
-**Level 3 - Proactive AI**: Predictive threat modeling, automated threat hunting
-**Level 4 - Autonomous AI**: Self-learning systems with minimal human intervention
+**Level 1 - Reactive AI**: Basic anomaly detection, signature-based automation  
+**Level 2 - Analytical AI**: Behavioral analytics, user entity behavior analytics (UEBA)  
+**Level 3 - Proactive AI**: Predictive threat modeling, automated threat hunting  
+**Level 4 - Autonomous AI**: Self-learning systems with minimal human intervention  
 
 Most enterprises operate at Level 2-3, with full autonomy remaining aspirational due to trust, compliance, and liability concerns.
 
