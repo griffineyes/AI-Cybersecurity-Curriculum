@@ -112,7 +112,7 @@
 [HTB AI Red Teamer](https://academy.hackthebox.com/catalogue/paths)  
   
 ⸻  
-## **Phase 4: Governance & Enterprise AI Security (Weeks 13–16)**  
+## **Phase 4: People Team Governance & Enterprise AI Security (Weeks 13–16)**  
   
 *Goal: Secure real-world deployments and understand compliance.*  
   
